@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
 My name is Daniël Scholte and I'm a full-stack software developer.  
-I currently study at Fontys IT in Eindhoven and work at Facilicom Solutions.
-I also do freelance projects through my own company, and like to work on hobby projects such as open-source apps.
+I currently study at Fontys IT in Eindhoven and work at Facilicom Solutions.  
+I also do freelance projects through my own company and like to work on hobby projects such as open-source apps.
 
 ### ✉️ Contact
 
@@ -20,5 +20,4 @@ You can contact me by mail at danielscholte@outlook.com
 
 ### 📈 Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=danielscholte&show_icons=true)  
-![GW2 Companion](https://github-readme-stats.vercel.app/api/pin/?username=danielscholte&repo=guildwars2companion)
+![Github stats](https://github-readme-stats.vercel.app/api?username=danielscholte&show_icons=true)
