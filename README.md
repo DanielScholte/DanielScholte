@@ -6,7 +6,7 @@ I also do freelance projects through my own company and like to work on hobby pr
 
 ### ✉️ Contact
 
-You can contact me by mail at danielscholte@outlook.com
+You can contact me by email at danielscholte@outlook.com
 
 ### 🔧 Tools
 
