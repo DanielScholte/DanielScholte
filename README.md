@@ -2,7 +2,7 @@
 
 My name is Daniël Scholte and I'm a full-stack software developer.  
 I currently study at Fontys IT in Eindhoven and work at Facilicom Solutions.  
-I also do freelance projects through my own company and like to work on hobby projects such as open-source apps.
+I also do freelance projects through my own company and like to work on hobby projects such as apps.
 
 ### ✉️ Contact
 
